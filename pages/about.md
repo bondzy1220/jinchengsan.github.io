@@ -5,23 +5,23 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+{GW graduate student}
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+{BJUT}
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+{Dog Walking}
 
 
-#### <a name="education"></a>ecucation
-{Insert text here}
+#### <a name="education"></a>education
+{none}
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/lyx_resume.pdf)
 
 ---
 
