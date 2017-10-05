@@ -17,7 +17,7 @@ description: Benjamin Harvey is...
 
 
 #### <a name="education"></a>education
-{none}
+{N/A}
 
 
 #### <a name="cvandresume"></a>cv and resume
