@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results](https://www.amazon.com/dp/B004NRLAVY/ref=twister_B075QH34CB?_encoding=UTF8&coliid=I1NSAI0VVUIZI&colid=30ZNGWH8FI8P3&th=1)| [assignment1 repositiory]()
+[assignment1 results](https://github.com/jinchengsan/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)| [assignment1 repositiory]()
 
 ---
 
