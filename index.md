@@ -9,7 +9,7 @@ keywords: statistics, data analytics
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://www.amazon.com/Bracelet-Friendship-Thanksgiving-Christmas-Anniversary/dp/B074YZQJBF?ref=bit_aa_spotlight_deal&tag=amz-mkt-chr-us-20&ascsubtag=1ba00-01000-a0049-mac00-other-nomod-us000-gatwy-feature-LDSLC">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
+          <li><a href="https://github.com/jinchengsan">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
       </ul>
