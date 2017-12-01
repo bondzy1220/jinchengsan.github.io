@@ -1,14 +1,15 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+title: Yixin Liu
+description: Yixin Liu is a dog walking professional.
+keywords: SCM, data science
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="jinchengsan.github.io/assets/lyx_resume.pdf">cv</a></li>
+          <li><a href="jinchengsan.github.io/assets/lyx_resume.pdf">cv(CN)</a></li>
           <li><a href="https://github.com/jinchengsan">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/realyixin/">LinkedIn</a></li>
