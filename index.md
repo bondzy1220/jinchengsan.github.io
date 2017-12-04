@@ -11,7 +11,6 @@ keywords: SCM, data science
           <li><a href="jinchengsan.github.io/assets/lyx_resume.pdf">cv</a></li>
           <li><a href="jinchengsan.github.io/assets/lyx_resume.pdf">cv(CN)</a></li>
           <li><a href="https://github.com/jinchengsan">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/realyixin/">LinkedIn</a></li>
       </ul>
   </div>
