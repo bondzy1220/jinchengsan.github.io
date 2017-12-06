@@ -31,6 +31,7 @@ Simulation of Ramen restaurant operating process
 #### <a name="education"></a>education
 {The George Washington University, (GWU) Washington, DC  
 § Master of Science in Systems Engineering, Focus: Operations Research
+
 Beijing University of Technology, Beijing, China 
 § Bachelor of Science in Transportation Engineering}
 
