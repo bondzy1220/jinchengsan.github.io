@@ -74,7 +74,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [assignment3 results](https://github.com/jinchengsan/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW3.ipynb)| [assignment3 repositiory]()|
 
 ---
 
