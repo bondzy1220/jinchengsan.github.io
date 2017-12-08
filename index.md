@@ -22,7 +22,7 @@ keywords: SCM, data science
 <tr>
   <td class="left">
     <a href="membership percentenge Jan">
-        <img src="https://github.com/jinchengsan/jinchengsan.github.io/blob/master/assets/WechatIMG58.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/WechatIMG58.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
