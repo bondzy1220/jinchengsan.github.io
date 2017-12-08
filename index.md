@@ -9,7 +9,7 @@ keywords: SCM, data science
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="jinchengsan.github.io/assets/lyx_resume.pdf">cv</a></li>
-          <li><a href="jinchengsan.github.io/assets/lyx_resume.pdf">cv(CN)</a></li>
+          <li><a href="https://github.com/jinchengsan/jinchengsan.github.io/blob/master/assets/%E5%88%98%E5%AE%9C%E9%91%AB.pdf">cv(CN)</a></li>
           <li><a href="https://github.com/jinchengsan">github</a></li>
           <li><a href="https://www.linkedin.com/in/realyixin/">LinkedIn</a></li>
       </ul>
