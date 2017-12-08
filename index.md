@@ -27,7 +27,7 @@ keywords: SCM, data science
   </td>
   <td class="right">
     <a href="map distribution">
-        <img src="assets/WechatIMG64.png" alt="Tian et
+        <img src="assets/WechatIMG64.png" alt="Tian et"/>
         
     </a>
   </td>
