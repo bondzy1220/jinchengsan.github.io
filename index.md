@@ -27,7 +27,7 @@ keywords: SCM, data science
   </td>
   <td class="right">
     <a href="map distribution">
-        <img src="https://github.com/jinchengsan/jinchengsan.github.io/blob/master/assets/WechatIMG64.png" alt="Tian et
+        <img src="assets/WechatIMG64.png" alt="Tian et
         
     </a>
   </td>
@@ -35,12 +35,12 @@ keywords: SCM, data science
 <tr>
   <td class="left">
     <a href="locations' scatter plot">
-        <img src="https://github.com/jinchengsan/jinchengsan.github.io/blob/master/assets/WechatIMG57.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/WechatIMG57.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
     <a href="frequency vs location">
-        <img src="https://github.com/jinchengsan/jinchengsan.github.io/blob/master/assets/WechatIMG61.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+        <img src="assets/WechatIMG61.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
