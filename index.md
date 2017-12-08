@@ -22,12 +22,12 @@ keywords: SCM, data science
 <tr>
   <td class="left">
     <a href="membership percentenge Jan">
-        <img src="assets/WechatIMG58.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/WechatIMG58.png" alt="R/qtlcharts example" title="membership percentenge Jan"/>
     </a>
   </td>
   <td class="right">
     <a href="map distribution">
-        <img src="assets/WechatIMG64.png" alt="Tian et"/>
+        <img src="assets/WechatIMG64.png" alt="Tian et" title="map distribution"/>
         
     </a>
   </td>
@@ -35,12 +35,12 @@ keywords: SCM, data science
 <tr>
   <td class="left">
     <a href="locations' scatter plot">
-        <img src="assets/WechatIMG57.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/WechatIMG57.png" alt="Broman et al. (2013) Fig 7" title="locations' scatter plot"/>
     </a>
   </td>
   <td class="right">
     <a href="frequency vs location">
-        <img src="assets/WechatIMG61.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+        <img src="assets/WechatIMG61.png" alt="Tian et al. (2015) Fig 4" title="frequency vs location"/>
     </a>
   </td>
 </tr>
